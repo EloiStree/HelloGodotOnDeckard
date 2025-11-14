@@ -4,11 +4,11 @@
 
 # Hello Deckard
 
-I’m going to buy it—obviously xD. So let’s start documenting around it.
+I’m going to buy it, obviously xD. So let’s start documenting around it.
 
 I already have a Steam Deck at home that I bought to explore the OS, so let’s prepare for what’s coming.
 
-I’m still planning to teach Godot on Raspberry Pi, but hey—when life gives you lemons, make lemonade.
+I’m still planning to teach Godot on Raspberry Pi, but hey, when life gives you lemons, make lemonade.
 
 Deckard is such good news.
 I was afraid we were heading toward a duopoly between Android XR and Meta, but this changes the topology of both the VR industry and the console landscape.
