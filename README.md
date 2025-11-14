@@ -1,5 +1,17 @@
+[💻 Code Section](https://github.com/EloiStree/HelloGodotCode) - [🚂 Engine Section](https://github.com/EloiStree/HelloGodotEngineKeyword) - [🕹️🎮 Hacking Game](https://github.com/EloiStree/HelloGodotRemoteControlHub) - [👓 XR Section](https://github.com/EloiStree/HelloGodotXR)  - [🍓 Raspberry Pi](https://github.com/EloiStree/HelloRaspberryPi) - [🥽Quest3](https://github.com/EloiStree/HelloQuest3) - [🍺🍻](https://buymeacoffee.com/apintio)
+
+------------------------------
+
 # Hello Deckard
-I am going to buy it xD obviously. So let's document around it.
+
+I’m going to buy it—obviously xD. So let’s start documenting around it.
+
+I already have a Steam Deck at home that I bought to explore the OS, so let’s prepare for what’s coming.
+
+I’m still planning to teach Godot on Raspberry Pi, but hey—when life gives you lemons, make lemonade.
+
+Deckard is such good news.
+I was afraid we were heading toward a duopoly between Android XR and Meta, but this changes the topology of both the VR industry and the console landscape.
 
 
 [<img width="1307" height="723" alt="image" src="https://github.com/user-attachments/assets/59bea86b-7f67-437d-b3a8-cdc78060352a" />](https://youtu.be/Q8QdKRbC1O0?t=120)    
