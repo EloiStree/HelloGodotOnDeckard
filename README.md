@@ -34,3 +34,4 @@ The current Steam Deck:
 [<img width="1185" height="494" alt="image" src="https://github.com/user-attachments/assets/c76367ca-c907-430b-ad1e-277190b0fa1d" />](https://store.steampowered.com/steamdeck)  
 https://store.steampowered.com/steamdeck  
 
+https://youtu.be/MMvS6o2fmVk
